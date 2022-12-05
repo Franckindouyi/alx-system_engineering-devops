@@ -1,2 +1,1 @@
-#!/bin/bash
-cut -l 3 iacta
+iacta
